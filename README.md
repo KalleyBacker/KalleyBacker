@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 💻 I  work as a middleware engineer<br>- 📫 How to reach me: juancarlosmorlareyes@hotmail.com</p>
+<p align="left"><br><br>- 💻 I  work as a middleware engineer<br>- 📫 How to reach me: juancarlosmorlareyes@hotmail.com</p>
 
 ###
 
